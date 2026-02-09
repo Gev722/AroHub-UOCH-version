@@ -29,4 +29,4 @@
 * **Adaptive UI:** Полная адаптация панели управления под мобильные устройства.
 
 ---
-© 2026 SamoHub Project. All rights reserved.
+© 2026 AroHub remake Project. All rights reserved.
